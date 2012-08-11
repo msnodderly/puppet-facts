@@ -1,4 +1,4 @@
-Super simple fact for Puppet/Facter.  Returns a fact for eacg EXT2/3/4 or NFS filesystem
+Super simple fact for Puppet/Facter.  Returns a fact for each EXT2/3/4 or NFS filesystem
 
     $ facter| grep disk
     disk_nfs => /nfs;nfs;100G;25%used
